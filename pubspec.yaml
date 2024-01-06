@@ -1,4 +1,4 @@
-name: flutter_seller
+name: flutter_seller_app
 description: A new Flutter project.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -61,6 +61,7 @@ dependencies:
   firebase_core: ^2.24.2
   flutter_local_notifications: ^16.3.0
   firebase_messaging: ^14.7.9
+  cross_file: ^0.3.3+6
   
 
 dev_dependencies:
