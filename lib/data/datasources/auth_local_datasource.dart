@@ -1,4 +1,4 @@
-import 'package:flutter_app/data/models/auth_response_model.dart';
+import 'package:flutter_seller_app/data/models/auth_response_model.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 class AuthLocalDatasource {
   Future<bool> saveAuthData(AuthResponseModel model) async {
